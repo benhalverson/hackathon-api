@@ -1,0 +1,13 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"intuitID": {
+			"name": "intuitID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "intuitID",
+			"order": 0
+		}
+	}
+}

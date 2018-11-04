@@ -1,0 +1,125 @@
+{
+	"type": "Collection",
+	"properties": {
+		"eventTitle": {
+			"name": "eventTitle",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "eventTitle",
+			"order": 0
+		},
+		"location": {
+			"name": "location",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "location",
+			"order": 1
+		},
+		"address1": {
+			"name": "address1",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "address1",
+			"order": 2
+		},
+		"address2": {
+			"name": "address2",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "address2",
+			"order": 3
+		},
+		"city": {
+			"name": "city",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "city",
+			"order": 4
+		},
+		"state": {
+			"name": "state",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "state",
+			"order": 5
+		},
+		"zip": {
+			"name": "zip",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "zip",
+			"order": 6
+		},
+		"startDate": {
+			"name": "startDate",
+			"type": "date",
+			"typeLabel": "date",
+			"required": false,
+			"id": "startDate",
+			"order": 7
+		},
+		"endDate": {
+			"name": "endDate",
+			"type": "date",
+			"typeLabel": "date",
+			"required": false,
+			"id": "endDate",
+			"order": 8
+		},
+		"image": {
+			"name": "image",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "image",
+			"order": 9
+		},
+		"eventTags": {
+			"name": "eventTags",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "eventTags",
+			"order": 10
+		},
+		"eventType": {
+			"name": "eventType",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "eventType",
+			"order": 11
+		},
+		"eventDescription": {
+			"name": "eventDescription",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "eventDescription",
+			"order": 12
+		},
+		"eventOrganizer": {
+			"name": "eventOrganizer",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "eventOrganizer",
+			"order": 13
+		},
+		"privacy": {
+			"name": "privacy",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "privacy",
+			"order": 14
+		}
+	}
+}

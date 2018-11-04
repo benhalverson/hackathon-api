@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": ">= 10.0"
+  },
+  "dependencies": {
+    "deployd": "^1.0.0",
+    "dpd-clientlib": "^0.0.1",
+    "dpd-dashboard": "^0.0.1",
+    "mime": "1.4.0",
+    "yelp-fusion": "2.2.1"
+  }
+}

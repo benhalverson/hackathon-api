@@ -24,6 +24,14 @@
 			"required": false,
 			"id": "amount",
 			"order": 2
+		},
+		"businessid": {
+			"name": "businessid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "businessid",
+			"order": 3
 		}
 	}
 }

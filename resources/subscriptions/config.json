@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"userid": {
+			"name": "userid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userid",
+			"order": 0
+		},
+		"amount": {
+			"name": "amount",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "amount",
+			"order": 1
+		},
+		"date": {
+			"name": "date",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "date",
+			"order": 2
+		},
+		"expirydate": {
+			"name": "expirydate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "expirydate",
+			"order": 3
+		},
+		"isactive": {
+			"name": "isactive",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isactive",
+			"order": 4
+		}
+	}
+}

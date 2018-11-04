@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"sellerid": {
+			"name": "sellerid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "sellerid",
+			"order": 0
+		},
+		"buyerid": {
+			"name": "buyerid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "buyerid",
+			"order": 1
+		},
+		"amount": {
+			"name": "amount",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "amount",
+			"order": 2
+		}
+	}
+}
